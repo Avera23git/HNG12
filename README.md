@@ -8,5 +8,8 @@ This is a public API developed for the HNG12 Stage 0 Backend Task. It returns ba
    ```bash
    git clone https://github.com/Avera23git/HNG12.git
 
+## API documentation
+http://localhost:3000/api/info
+
 ## Backlink
    https://hng.tech/hire/nodejs-developers
