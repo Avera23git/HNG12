@@ -11,7 +11,7 @@ app.get('/api/info', (req, res) => {
   res.json({
     email: 'jenniferadeghor@gmail.com',
     current_datetime: currentDateTime,
-    github_url: 'https://github.com/Avera23git/HNG12.git'
+    github_url: 'https://github.com/Avera23git/HNG12'
   });
 });
 
